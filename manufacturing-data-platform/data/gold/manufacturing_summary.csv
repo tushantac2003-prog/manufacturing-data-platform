@@ -1,0 +1,2 @@
+total_machines,total_failures,failure_rate (%),avg_air_temperature,avg_process_temperature,avg_rpm,avg_torque,avg_tool_wear
+10000,339,0.03,300.0,310.01,1538.78,39.99,107.95
